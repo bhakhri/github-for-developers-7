@@ -1,9 +1,9 @@
-*** Introduction
+<h> Introduction </h>
 
-** Name * Sachin Sharma </p>
-** Location * Panchkula, Haryana, India </p>
-** Favourite Food * Bhartha </p>
-** Hobby * Reading </p>
+<b>Name </b> Sachin Sharma </p>
+<b>Location </b> Panchkula, Haryana, India </p>
+<b>Favourite Food </b> Bhartha </p>
+<b>Hobby </b> Reading  </p>
 
 | Name | City | State | Country | Favorite Food | Hobby |
 | -------------------- | ------------- | ----------- | ------ | ---------- | ----------- |
