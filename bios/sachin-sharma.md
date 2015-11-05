@@ -1,5 +1,6 @@
 ### Introduction
 
-| Name | City| State | Country | Favorite Food | Hobby |
-| ----- | ----- | ------ | ---------- | ------ | ----- |
-| Saachin Sharma| Panchkula | Haryana | India | Bhartha | Reading |
+| Name | City| State | Country | Favorite Food | Hobby | Favorite Color |
+| ----- | ----- | ------ | ---------- | ------ | ----- | ---------- |
+| Saachin Sharma| Panchkula | Haryana | India | Bhartha | Reading | Sky Blue |
+
